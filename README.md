@@ -9,8 +9,8 @@
 
 <p align="center">
   <a href="https://github.com/lesongthao"><img src="https://img.shields.io/badge/GitHub-lesongthao-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:songthao2412@gmail.com"><img src="https://img.shields.io/badge/Email-songthao2412%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.facebook.com/lesongthao2003/"><img src="https://img.shields.io/badge/Facebook-lesongthao2003-0866FF?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
 </p>
 
 ## <a name="current-focus"></a> Current Focus
@@ -55,8 +55,8 @@
 
 <p align="center">
   <a href="https://github.com/lesongthao"><img src="https://img.shields.io/badge/GitHub-View%20Projects-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub Projects" /></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:songthao2412@gmail.com"><img src="https://img.shields.io/badge/Email-songthao2412%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.facebook.com/lesongthao2003/"><img src="https://img.shields.io/badge/Facebook-lesongthao2003-0866FF?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
 </p>
 
 <a href="#readme"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:020617&height=120&section=footer" alt="Footer" /></a>
