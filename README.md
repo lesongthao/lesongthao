@@ -4,7 +4,7 @@
 <h1 align="center">Hi, I'm Le Song Thao</h1>
 
 <p align="center">
-  <strong>Fresher Embedded / IoT Engineer</strong> · Arduino/ESP32 projects · Python Computer Vision applications
+  <strong>Embedded / IoT Engineer</strong> · Arduino/ESP32 projects · Python Computer Vision applications
 </p>
 
 <p align="center">
