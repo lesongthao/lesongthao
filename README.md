@@ -1,5 +1,5 @@
 <a id="readme"></a>
-<a href="#readme"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f766e&height=220&section=header&text=LE%20SONG%20THAO&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fresher%20Embedded%20%7C%20IoT%20%7C%20Computer%20Vision&descAlignY=58&descSize=18" alt="Profile Header" /></a>
+<a href="#readme"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f766e&height=220&section=header&text=LE%20SONG%20THAO&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%20Embedded%20%7C%20IoT%20%7C%20Computer%20Vision&descAlignY=58&descSize=18" alt="Profile Header" /></a>
 
 <h1 align="center">Hi, I'm Le Song Thao</h1>
 
